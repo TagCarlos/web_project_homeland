@@ -1,0 +1,37 @@
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(60, 58, 58);
+    color: #ffffff;
+    padding-left: 6.2rem;
+}
+
+.main__title{
+    max-width: 52rem;
+    max-height: 9rem;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.2;
+}
+
+.main__subtitle{
+    width: 50rem;
+    height: 8rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.main__author{
+    display: flex;
+    justify-content: flex-end;
+    width: 45rem;
+    height: 2rem;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+.main__content{
+    width: 45rem;
+    height: 11rem;
+    line-height: 163%;
+}
