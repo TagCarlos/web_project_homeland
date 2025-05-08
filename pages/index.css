@@ -34,6 +34,7 @@ body{
             image-rendering: auto;
             max-width: 100%;
             height: auto;
+            /* object-fit : cover; */
         }
         .header__title{
             max-height: 100%;
