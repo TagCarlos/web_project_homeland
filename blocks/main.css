@@ -1,37 +1,23 @@
-main{
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(60, 58, 58);
-    color: #ffffff;
-    padding-left: 6.2rem;
+.intro{
+max-width: 984px;
+margin: auto;
 }
 
 .main__title{
-    max-width: 52rem;
-    max-height: 9rem;
-    font-weight: 900;
-    font-size: 3rem;
-    line-height: 1.2;
+    max-width: 80%;
+    font-size: 54px;
 }
 
 .main__subtitle{
-    width: 50rem;
-    height: 8rem;
-    font-size: 1.5rem;
-    line-height: 1.5;
+    max-width: 80%;
+    font-size: 24px;
 }
 
 .main__author{
-    display: flex;
-    justify-content: flex-end;
-    width: 45rem;
-    height: 2rem;
-    font-size: 1.5rem;
-    line-height: 2;
+    text-align: end;
+    max-width: 80%;
 }
 
 .main__content{
-    width: 45rem;
-    height: 11rem;
-    line-height: 163%;
+    max-width: 80%;
 }
