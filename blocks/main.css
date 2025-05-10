@@ -1,4 +1,4 @@
-.intro{
+.main__intro{
 max-width: 984px;
 margin: auto;
 }
@@ -18,6 +18,6 @@ margin: auto;
     max-width: 80%;
 }
 
-.main__content{
+.main__text{
     max-width: 80%;
 }
