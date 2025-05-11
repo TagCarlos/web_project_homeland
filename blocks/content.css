@@ -1,23 +1,23 @@
-.main__intro{
+.content__intro{
 max-width: 984px;
 margin: auto;
 }
 
-.main__title{
+.content__title{
     max-width: 80%;
     font-size: 54px;
 }
 
-.main__subtitle{
+.content__subtitle{
     max-width: 80%;
     font-size: 24px;
 }
 
-.main__author{
+.content__author{
     text-align: end;
     max-width: 80%;
 }
 
-.main__text{
+.content__text{
     max-width: 80%;
 }

@@ -1,16 +1,15 @@
 .page{
     margin: 0;
     padding: 0;
-    
     max-width: 700px;
     color: #ffffff;
     font-family: "Inter";
 }
 
 @media (max-width: 768px){
-.intro{
+.content__intro{
     margin-left: 20px;
-    /* max-width: 100%; */
+    
 }
 
 .header__image{
@@ -45,7 +44,7 @@
         max-width: 320px;
     }
 
-    .intro{
+    .content__intro{
         margin-left: 5px;
     }
 
@@ -60,4 +59,4 @@
     .footer__copy{
         max-width: 320px;
     }
-}
+} 
