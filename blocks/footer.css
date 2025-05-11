@@ -1,3 +1,9 @@
 .footer__copy{
     text-align: center;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__copy{
+        max-width: 320px;
+    }
+}

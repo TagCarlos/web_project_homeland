@@ -1,6 +1,12 @@
+.content__image{
+    width: 100%;
+    max-width: 984px;
+    margin-top: 30px;
+}
+
 .content__intro{
 max-width: 984px;
-margin: auto;
+margin: 0 auto;
 }
 
 .content__title{
@@ -20,4 +26,41 @@ margin: auto;
 
 .content__text{
     max-width: 80%;
+}
+
+@media screen and (max-width: 768px){
+.content__intro{
+    margin-left: 20px;
+    
+}
+.content__subtitle{
+    max-width: 100%;
+}
+
+.content_author{
+    max-width: 100%;
+}
+
+.content__text{
+    max-width: 100%;
+}
+}
+
+@media screen and (max-width: 320px) {
+    
+    .content{
+        max-width: 320px;
+    }
+
+    .content__intro{
+        margin-left: 5px;
+    }
+
+    .content__title{
+        font-size: 32px;
+    }
+
+    .content__subtitle{
+        font-size: 24px;
+    }
 }
