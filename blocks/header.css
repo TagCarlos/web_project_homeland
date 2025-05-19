@@ -24,6 +24,7 @@
     width: 100%;
     max-width: 984px;
     margin-top: 30px;
+    box-shadow: 10px 10px 25px 0px #00000080;
 }
 
 .header__paragraph{
