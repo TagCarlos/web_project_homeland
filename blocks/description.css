@@ -42,6 +42,8 @@
     color: #ffffff;
     text-align: center;
     align-items: center;
+    border: none;
+    border-radius: 5px;
 }
 
 .description__button:hover{
